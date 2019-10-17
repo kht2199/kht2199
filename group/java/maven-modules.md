@@ -18,7 +18,7 @@
 $ tree -L 1 -d
 .
 ├── creavorite
-├── creavorite/pom.xml (submodule pom)
+├── creavorite/pom.xml (sub module pom)
 ├── creavorite-common
 ├── creavorite-common/pom.xml
 pom.xml (parent pom)
@@ -37,13 +37,13 @@ parent pom.xml
 </modules>
 ...
 <dependencyManagement>
-    <dependencies>
-      <dependency>
-        <groupId>org.springframework</groupId>
-        <artifactId>spring-context</artifactId>
-        <version>${spring.version}</version>
-	  </dependency>
-	</dependencies>
+  <dependencies>
+    <dependency>
+      <groupId>org.springframework</groupId>
+      <artifactId>spring-context</artifactId>
+      <version>${spring.version}</version>
+    </dependency>
+  </dependencies>
 </dependencyManagement>
 ```
 
@@ -58,18 +58,18 @@ submodule creavorite-service/pom.xml
 </parent>
 ...
 <dependencies>
-	...
-	<dependency>
+  ...
+  <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-context</artifactId>
-		<!-- 생략 -->
+    <!-- 버전 생략 -->
   </dependency>
-	<dependency>
+  <dependency>
     <groupId>com.ovncorp</groupId>
     <artifactId>creavorite-common</artifactId>
     <version>1.0</version>
   </dependency>
-	....
+  ...
 </dependencies>
 ```
 
