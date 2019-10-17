@@ -22,4 +22,6 @@
 * [Book Review](group/books.md)
 * [Project](group/project/README.md)
   * [HTS - Home Trading System](group/project/hts-home-trading-system.md)
+* [Trading](group/trading/README.md)
+  * [QSTrader](group/trading/qstrader.md)
 
