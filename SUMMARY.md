@@ -5,7 +5,7 @@
 ## Group
 
 * [Java](group/java/README.md)
-  * [Maven Modules](group/java/maven-modules.md)
+  * [Maven Modularity](group/java/maven-modules.md)
   * [Spring](group/java/spring/README.md)
     * [Spring Cloud Function](group/java/spring/spring-cloud-function.md)
     * [Spring Stream](group/java/spring/spring-stream.md)
