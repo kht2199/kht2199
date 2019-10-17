@@ -5,11 +5,12 @@
 ## Group
 
 * [Java](group/java/README.md)
+  * [Spring](group/java/spring/README.md)
+    * [Spring Cloud Function](group/java/spring/spring-cloud-function.md)
+    * [Spring Stream](group/java/spring/spring-stream.md)
   * [Maven Modules](group/java/maven-modules.md)
   * [Riff](group/java/riff.md)
   * [GraalVM](group/java/graalvm.md)
-  * [Spring Cloud Function](group/java/spring-cloud-function.md)
-  * [Spring Stream](group/java/spring-stream.md)
 * [Language](group/language/README.md)
   * [Coroutin](group/language/coroutin.md)
 * [Design Pattern](group/design-pattern/README.md)
