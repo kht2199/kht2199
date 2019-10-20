@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Home](README.md)
+* [API](README.md)
 
 ## Group
 
