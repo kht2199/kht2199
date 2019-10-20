@@ -9,7 +9,6 @@
   * [Spring](group/java/spring/README.md)
     * [Spring Cloud Function](group/java/spring/spring-cloud-function.md)
     * [Spring Stream](group/java/spring/spring-stream.md)
-  * [Riff](group/java/riff.md)
   * [GraalVM](group/java/graalvm.md)
 * [Kotlin](group/language/README.md)
   * [Coroutin](group/language/coroutin.md)
