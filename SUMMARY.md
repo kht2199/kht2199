@@ -11,7 +11,7 @@
     * [Spring Stream](group/java/spring/spring-stream.md)
   * [Riff](group/java/riff.md)
   * [GraalVM](group/java/graalvm.md)
-* [Language](group/language/README.md)
+* [Kotlin](group/language/README.md)
   * [Coroutin](group/language/coroutin.md)
 * [Design Pattern](group/design-pattern/README.md)
   * [Specification Pattern](group/design-pattern/specification-pattern.md)
