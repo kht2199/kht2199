@@ -24,4 +24,6 @@
   * [HTS - Home Trading System](group/project/hts-home-trading-system.md)
 * [Trading](group/trading/README.md)
   * [QSTrader](group/trading/qstrader.md)
+* [Javascript](group/javascript/README.md)
+  * [Knockout.js](group/javascript/knockout.js.md)
 
